@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=800&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Silex+%F0%9F%91%8B;Cybersecurity+student+from+Kyiv;I+build+privacy-first+tools+%F0%9F%94%90" alt="Typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=800&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Silex+%F0%9F%91%8B;Cybersecurity+student+from+Košice;I+build+privacy-first+tools+%F0%9F%94%90" alt="Typing intro" />
 
 <a href="https://github.com/Skerpsh?tab=followers"><img src="https://img.shields.io/github/followers/Skerpsh?label=followers&style=flat-square&color=0d1117" alt="Followers" /></a>
-<img src="https://img.shields.io/badge/location-Kyiv%2C%20Ukraine-0057B7?style=flat-square" alt="Location" />
+<img src="https://img.shields.io/badge/location-Košice%2C%20Slovakia-0057B7?style=flat-square" alt="Location" />
 <img src="https://img.shields.io/badge/focus-cybersecurity-FFD700?style=flat-square" alt="Focus" />
 
 </div>
