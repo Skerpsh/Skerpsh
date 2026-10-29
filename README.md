@@ -20,17 +20,18 @@
 ### 🛠 Tech stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,ts,cs,cpp,html,linux,arch,git&theme=dark" alt="Python, TypeScript, C#, C++, HTML, Linux, Arch, Git" />
+  <img src="https://skillicons.dev/icons?i=python,ts,go,cs,cpp,react,postgres,docker,unity,linux,arch,git&theme=dark" alt="Python, TypeScript, Go, C#, C++, React, PostgreSQL, Docker, Unity, Linux, Arch, Git" />
 </p>
 
 ### 🚀 Featured projects
 
 | Project | What it does | Stack |
 |---|---|---|
-| 🦤 **[Ostrich Messenger](https://github.com/Skerpsh/Ostrich_Messenger)** | Private end-to-end encrypted messenger for web, iOS, Android and the terminal | TypeScript |
+| 🦤 **[Ostrich Messenger](https://github.com/Skerpsh/Ostrich_Messenger)** | Private end-to-end encrypted messenger for web, iOS, Android and the terminal · [website](https://ostrich-messenger.com) | TypeScript · Go |
 | 🔥 **[Phoenix](https://github.com/Skerpsh/Phoenix)** | Self-hosted dead man's switch for Telegram: if you stop checking in, your prepared letters and files go to the people you choose | Python |
-| 🕊 **[Peace](https://github.com/Skerpsh/Peace)** | Telegram bot with verified air-alert updates for Kyiv and Kyiv Oblast, readable in two seconds | Python |
+| 🕊 **[Peace](https://github.com/Skerpsh/Peace)** | Telegram bot with verified air-alert updates for Kyiv and Kyiv Oblast, readable in two seconds · [try it](https://t.me/peacesilex_bot) | Python |
 | 🪟 **[telegram-transparent](https://github.com/Skerpsh/telegram-transparent)** | Telegram Desktop fork with real glass transparency and cinematic animations for Hyprland/Wayland | C++ |
+| 🥽 **[New Vision](https://github.com/Skerpsh/New-Vision)** | Real-time on-device object detection (YOLO11) with AI object info for Meta Quest 3 | C# · Unity |
 | 🎮 **[Silexa Bot](https://github.com/Skerpsh/Silexa_Bot)** | All-in-one Discord community, gaming and economy bot | Python |
 
 ### 🐍 Contributions
