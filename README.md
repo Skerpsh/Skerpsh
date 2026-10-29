@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="assets/sakura.gif" width="100%" alt="Cherry blossoms falling over a temple at night" />
-
 <img src="assets/banner.svg" width="100%" alt="Terminal: whoami → silex, cybersecurity student from Košice, Slovakia" />
+
+<img src="assets/sakura.gif" width="100%" alt="Cherry blossoms falling over a temple at night" />
 
 <a href="https://github.com/Skerpsh?tab=followers"><img src="https://img.shields.io/github/followers/Skerpsh?label=followers&style=flat-square&color=0d1117" alt="Followers" /></a>
 <img src="https://img.shields.io/badge/location-Ko%C5%A1ice%2C%20Slovakia-ff7eb6?style=flat-square" alt="Location" />
