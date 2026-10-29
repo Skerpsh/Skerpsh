@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=800&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Silex+%F0%9F%91%8B;Cybersecurity+student+from+Ko%C5%A1ice;I+build+privacy-first+tools+%F0%9F%94%90" alt="Typing intro" />
+<img src="assets/banner.svg" width="100%" alt="Terminal: whoami → silex, cybersecurity student from Košice, Slovakia" />
 
 <a href="https://github.com/Skerpsh?tab=followers"><img src="https://img.shields.io/github/followers/Skerpsh?label=followers&style=flat-square&color=0d1117" alt="Followers" /></a>
 <img src="https://img.shields.io/badge/location-Ko%C5%A1ice%2C%20Slovakia-0B4EA2?style=flat-square" alt="Location" />
@@ -33,13 +33,6 @@
 | 🪟 **[telegram-transparent](https://github.com/Skerpsh/telegram-transparent)** | Telegram Desktop fork with real glass transparency and cinematic animations for Hyprland/Wayland | C++ |
 | 🥽 **[New Vision](https://github.com/Skerpsh/New-Vision)** | Real-time on-device object detection (YOLO11) with AI object info for Meta Quest 3 | C# · Unity |
 | 🎮 **[Silexa Bot](https://github.com/Skerpsh/Silexa_Bot)** | All-in-one Discord community, gaming and economy bot | Python |
-
-### 🐍 Contributions
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Skerpsh/Skerpsh/output/github-snake-dark.svg" />
-  <img src="https://raw.githubusercontent.com/Skerpsh/Skerpsh/output/github-snake.svg" alt="Snake eating my contribution graph" />
-</picture>
 
 ### 📫 Contact
 

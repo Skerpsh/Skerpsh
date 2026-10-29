@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 380" width="1200" height="380" font-family="'JetBrains Mono','Fira Code','Cascadia Code',Consolas,'DejaVu Sans Mono',monospace" font-size="21" xml:space="preserve">
+<defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#58a6ff"/><stop offset="1" stop-color="#bc8cff"/></linearGradient>
+<pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#30363d" stroke-width=".5" opacity=".5"/></pattern></defs>
+<rect x="1" y="1" width="1198" height="378" rx="14" fill="#0d1117" stroke="#30363d" stroke-width="2"/>
+<rect x="1" y="44" width="1198" height="334" fill="url(#grid)"/>
+<rect x="1" y="1" width="1198" height="44" rx="14" fill="#161b22"/><rect x="1" y="30" width="1198" height="15" fill="#161b22"/>
+<circle cx="28" cy="23" r="7" fill="#ff5f56"/><circle cx="52" cy="23" r="7" fill="#ffbd2e"/><circle cx="76" cy="23" r="7" fill="#27c93f"/>
+<text x="600" y="29" text-anchor="middle" fill="#8b949e" font-size="15">silex@kosice: ~</text>
+<rect x="1" y="375" width="1198" height="4" fill="url(#g)" opacity=".8"/>
+<clipPath id="c0"><rect x="0" y="66" width="1200" height="32"><animate attributeName="width" dur="14.0s" repeatCount="indefinite" values="0;0;1200;1200;0" keyTimes="0;0.0429;0.0857;0.9571;1" calcMode="linear"/></rect></clipPath>
+<text x="32" y="90" clip-path="url(#c0)"><tspan fill="#3fb950">silex@kosice</tspan><tspan fill="#8b949e">:</tspan><tspan fill="#58a6ff">~</tspan><tspan fill="#8b949e">$ </tspan><tspan fill="#e6edf3">whoami </tspan></text>
+<text x="32" y="124" fill="url(#g)" font-weight="600">silex · cybersecurity student<animate attributeName="opacity" dur="14.0s" repeatCount="indefinite" values="0;0;1;1;0" keyTimes="0;0.1071;0.1107;0.9571;1"/></text>
+<clipPath id="c1"><rect x="0" y="140" width="1200" height="32"><animate attributeName="width" dur="14.0s" repeatCount="indefinite" values="0;0;1200;1200;0" keyTimes="0;0.1500;0.2143;0.9571;1" calcMode="linear"/></rect></clipPath>
+<text x="32" y="164" clip-path="url(#c1)"><tspan fill="#3fb950">silex@kosice</tspan><tspan fill="#8b949e">:</tspan><tspan fill="#58a6ff">~</tspan><tspan fill="#8b949e">$ </tspan><tspan fill="#e6edf3">cat location.txt </tspan></text>
+<text x="32" y="198" fill="#c9d1d9" font-weight="400">Košice, Slovakia<animate attributeName="opacity" dur="14.0s" repeatCount="indefinite" values="0;0;1;1;0" keyTimes="0;0.2357;0.2393;0.9571;1"/></text>
+<clipPath id="c2"><rect x="0" y="214" width="1200" height="32"><animate attributeName="width" dur="14.0s" repeatCount="indefinite" values="0;0;1200;1200;0" keyTimes="0;0.2786;0.3429;0.9571;1" calcMode="linear"/></rect></clipPath>
+<text x="32" y="238" clip-path="url(#c2)"><tspan fill="#3fb950">silex@kosice</tspan><tspan fill="#8b949e">:</tspan><tspan fill="#58a6ff">~</tspan><tspan fill="#8b949e">$ </tspan><tspan fill="#e6edf3">ls ~/projects </tspan></text>
+<text x="32" y="272" fill="#c9d1d9" font-weight="400">ostrich-messenger  phoenix  peace  new-vision  telegram-transparent<animate attributeName="opacity" dur="14.0s" repeatCount="indefinite" values="0;0;1;1;0" keyTimes="0;0.3643;0.3679;0.9571;1"/></text>
+<clipPath id="c3"><rect x="0" y="288" width="1200" height="32"><animate attributeName="width" dur="14.0s" repeatCount="indefinite" values="0;0;1200;1200;0" keyTimes="0;0.4143;0.5143;0.9571;1" calcMode="linear"/></rect></clipPath>
+<text x="32" y="312" clip-path="url(#c3)"><tspan fill="#3fb950">silex@kosice</tspan><tspan fill="#8b949e">:</tspan><tspan fill="#58a6ff">~</tspan><tspan fill="#8b949e">$ </tspan><tspan fill="#e6edf3">./build --privacy-first </tspan><tspan fill="#58a6ff">▋<animate attributeName="fill-opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></tspan></text>
+</svg>
